@@ -6,7 +6,7 @@ version = "5.2.0alpha"
 desc = "Lua 5.2 bit manipulation library for Lua 5.1"
 author = "Roberto Ierusalimschy, Waldemar Celes, Luiz Henrique de Figueiredo"
 license = "MIT/X11"
-url = "http://lua.org/work/
+url = "http://lua.org/work/"
 maintainer = "Peter Drahoš"
 
 depends = {
