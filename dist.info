@@ -1,0 +1,20 @@
+type = "x86_64"
+arch = "Ubuntu"
+author = "Roberto Ierusalimschy, Waldemar Celes, Luiz Henrique de Figueiredo"
+depends = {
+[[lua ~> 5.1]],
+}
+
+desc = "Lua 5.2 bit manipulation library for Lua 5.1"
+version = "5.2.0alpha"
+maintainer = "Peter Drahoš"
+files = {
+Runtime = {
+[[lib/lua/bit32.so]],
+}
+,
+}
+
+license = "MIT/X11"
+name = "bit32"
+url = "http://lua.org/work/"
